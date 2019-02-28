@@ -6,7 +6,7 @@
 In this paper, we focus on CNN technology joining with image restoration to facilitate video coding performance, and propose the content-aware CNN based in-loop filtering for High Efficiency Video Coding (HEVC). The proposed coding tool and pre-trained models are provided for performance comparison. The Project Page of the paper could found [here](http://www.jiachuanmin.site/Projects/CNNLF/index.html). 
 
 ## Dataset
-We also provide the HEVC-compressed [dataset](https://github.com/Codersadis/codersadis.github.io/tree/master/Projects/CNNLF/TrainingData) for training the proposed method.
+We also provide the HEVC-compressed [dataset](https://github.com/Codersadis/Content-aware-CNN-loop-filter-for-HEVC/tree/master/Trainingdata) for training the proposed method.
 
 
 ## Citation
