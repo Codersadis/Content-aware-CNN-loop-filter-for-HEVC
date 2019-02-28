@@ -16,12 +16,12 @@ Please unfold the .zip file after downloading. And the pre-trained caffe-models 
 
 Encoder: 
 ``` bash
-> TAppEncoder.exe -c encoder_AI.cfg -CaffemodelQP 37
+> TAppEncoder.exe -c encoder_AI.cfg -o rec.yuv -CaffemodelQP 37
 ```
 
 Decoder:
 ``` bash
-> TAppDecoder.exe -c encoder_AI.cfg --CaffemodelQP=37
+> TAppDecoder.exe -b str.bin -o dec.yuv --CaffemodelQP=37
 ```
 
 ### Citation
