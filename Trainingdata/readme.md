@@ -28,6 +28,4 @@ Notes: The matlab code for generating training samples will be provided soon.
 
 ### Author
 - cmjia@pku.edu.cn
-
-### License
-- GPL v3  
+ 
